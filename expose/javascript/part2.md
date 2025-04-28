@@ -60,4 +60,5 @@ It will print 3 as the arr length is 3 here.
        - Each result is pushed to newArr
     3. The function returns newArr which contains [2,4,6]
  18. see part2-question18.js
- 19. 
+ 19. 1 4 3 2
+    
